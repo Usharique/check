@@ -5,7 +5,7 @@ public class ATM {
 	String location="Kerala" ;
 	String managedBy="admin";
 	
-	
+	//comment
 	
 	
 	public String getLocation() {
